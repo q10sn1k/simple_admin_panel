@@ -1,0 +1,5 @@
+RewriteEngine ON
+RewriteBase /
+
+#закрытие доступа к папку admin
+Deny from all

@@ -1,0 +1,13 @@
+main table td, main table th {
+	border: 1px solid black;
+	padding: 10px;
+}
+
+.success {
+	color: green;
+}
+
+.error
+{
+	color: red;
+}
